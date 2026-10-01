@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://evernightbeloved.github.io/lab4-seo/sitemap.xml
